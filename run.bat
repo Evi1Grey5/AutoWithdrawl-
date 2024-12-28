@@ -1,0 +1,1 @@
+python autowithdraw\main.py
